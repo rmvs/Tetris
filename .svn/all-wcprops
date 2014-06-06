@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/tetris/!svn/ver/14/trunk
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/tetris/!svn/ver/2/trunk/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/tetris/!svn/ver/2/trunk/.classpath
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/tetris/!svn/ver/14/trunk/src/br/unifor/Util
+END
+ShapeQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tetris/!svn/ver/8/trunk/src/br/unifor/Util/ShapeQueue.java
+END
+StartState.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tetris/!svn/ver/2/trunk/src/br/unifor/Util/StartState.java
+END
+game_config.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/tetris/!svn/ver/12/trunk/src/br/unifor/Util/game_config.java
+END
+StopState.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/tetris/!svn/ver/2/trunk/src/br/unifor/Util/StopState.java
+END
+VerifyTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/tetris/!svn/ver/12/trunk/src/br/unifor/Util/VerifyTask.java
+END
+Tarefa.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tetris/!svn/ver/14/trunk/src/br/unifor/Util/Tarefa.java
+END
+Ponto.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/tetris/!svn/ver/5/trunk/src/br/unifor/Util/Ponto.java
+END
+ShapeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/tetris/!svn/ver/5/trunk/src/br/unifor/Util/ShapeUtil.java
+END
+CONST.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/tetris/!svn/ver/2/trunk/src/br/unifor/Util/CONST.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/tetris/!svn/ver/2/trunk/src/br/unifor/Util/State.java
+END

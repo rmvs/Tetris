@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/tetris/!svn/ver/12/trunk/src/br/unifor/Shape
+END
+TETRIS_T.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tetris/!svn/ver/11/trunk/src/br/unifor/Shape/TETRIS_T.java
+END
+TETRIS_S.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tetris/!svn/ver/11/trunk/src/br/unifor/Shape/TETRIS_S.java
+END
+ShapeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/tetris/!svn/ver/2/trunk/src/br/unifor/Shape/ShapeFactory.java
+END
+TETRIS_QUADRADO.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/tetris/!svn/ver/11/trunk/src/br/unifor/Shape/TETRIS_QUADRADO.java
+END
+TETRIS_L.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tetris/!svn/ver/11/trunk/src/br/unifor/Shape/TETRIS_L.java
+END
+TETRIS_J.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tetris/!svn/ver/11/trunk/src/br/unifor/Shape/TETRIS_J.java
+END
+TETRIS_Z.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tetris/!svn/ver/11/trunk/src/br/unifor/Shape/TETRIS_Z.java
+END
+TETRIS_I.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/tetris/!svn/ver/12/trunk/src/br/unifor/Shape/TETRIS_I.java
+END
+Shape.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/tetris/!svn/ver/11/trunk/src/br/unifor/Shape/Shape.java
+END
